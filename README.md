@@ -1,3 +1,6 @@
+Example, mine:
+https://docs.google.com/spreadsheets/d/1cpxqFdftjE01yqO0Jzvp0UoxOxlPBm6JHqa-um1yAkA/edit?usp=sharing
+
 Open google sheet, rename the sheet into Sheet1
 Extension > Appscript > 
 
